@@ -18,7 +18,7 @@ This project involves cross-functional collaboration between:
 
 ## **Executive Summary**
 
-![Dashboard 1 (3).png](Phoenix%20Product%20Performance%20&%20Competitive%20Benchmar%201d14799bb267809aad03e69ae784a2a5/Dashboard_1_(3).png)
+[![Preview Image](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Dashboard%201.png))](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Dashboard%201.png)
 
 Over the last five years (2020–2024), Phoenix has demonstrated moderate growth in sales and revenue, peaking in 2023 before a noticeable decline in 2024. Key findings include:
 
@@ -28,7 +28,7 @@ Over the last five years (2020–2024), Phoenix has demonstrated moderate growth
 - Despite lower sales, Phoenix maintained a strong subscription rate (57%) and online retention (72%), suggesting loyal user base potential.
 - The competitor leads in metrics such as units sold and marketing reach. However, Phoenix shows engagement strength, which could be a pivot point if leveraged with better product positioning or exclusive content.
 
-![Dashboard 2 (2).png](Phoenix%20Product%20Performance%20&%20Competitive%20Benchmar%201d14799bb267809aad03e69ae784a2a5/Dashboard_2_(2).png)
+[![Preview Image](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Dashboard%202.png))](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Dashboard%202.png)
 
 ## Analysis
 
@@ -53,23 +53,23 @@ Here’s the full breakdown of the analysis methodology
 
 The competitor has led consistently in sales since 2020 - 2024.
 
-![Phoenix vs Competitor Revenue Over TIme.png](Phoenix%20Product%20Performance%20&%20Competitive%20Benchmar%201d14799bb267809aad03e69ae784a2a5/Phoenix_vs_Competitor_Revenue_Over_TIme.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Phoenix%20vs%20Competitor%20Revenue%20Over%20TIme.png))](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Phoenix%20vs%20Competitor%20Revenue%20Over%20TIme.png)
 
 It still leads strong in all regions (APAC, EMEA & NA).
 
-![Phoenix vs Competitor Sales by Region.png](Phoenix%20Product%20Performance%20&%20Competitive%20Benchmar%201d14799bb267809aad03e69ae784a2a5/Phoenix_vs_Competitor_Sales_by_Region.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Phoenix%20vs%20Competitor%20Sales%20by%20Region.png))](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Phoenix%20vs%20Competitor%20Sales%20by%20Region.png)
 
 The competitor spends more on marketing but,  does that mean that we have to spend more on marketing to make more sales? 
 
 Let’s see if the amount we spend on marketing actually works in our favour.
 
-![CPA_CR_CPR.png](Phoenix%20Product%20Performance%20&%20Competitive%20Benchmar%201d14799bb267809aad03e69ae784a2a5/CPA_CR_CPR.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/CPA_CR_CPR.png))](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/CPA_CR_CPR.png)
 
 The analysis shows that :
 
 - It costs ≈$0.726 to reach one person and  we have a **1.14% conversion** from reach to sales, which is within industry standards (1% - 2.5%) and considering the product is high ticket and the the competition is strong is a good amount.
 
-![Screenshot 2025-04-21 at 1.34.12 AM.png](Phoenix%20Product%20Performance%20&%20Competitive%20Benchmar%201d14799bb267809aad03e69ae784a2a5/Screenshot_2025-04-21_at_1.34.12_AM.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Phoenix%20Strengths.png))](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Phoenix%20Strengths.png)
 
 Now for Phoenix’s strengths:
 
