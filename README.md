@@ -78,6 +78,38 @@ Now for Phoenix’s strengths:
 - A high subscription Rate with over half of users subscribing, suggesting monetization and brand loyalty are already working.
 - A retention rate of 72% retention is high, indicating satisfied, recurring users.
 
+Having discussed popularity and market dominance through advertising, let’s see if **Phoenix** has some internal issues by comparing the specs. Here are my insights:
+
+###  Performance
+
+- **Product Phoenix** has higher CPU (3.8 GHz vs 3.5 GHz) and GPU power (12 TFLOPs vs 10.28 TFLOPs).
+- Both support up to **8K resolution** and **120 FPS** frame rates.
+- **Phoenix** includes more storage (1 TB vs 825 GB).
+
+### Backward Compatibility
+
+- **Phoenix** supports more legacy games and older consoles.
+
+### Gaming Experience
+
+- **Helix** shines with **exclusive game titles** and better **controller innovation** (adaptive triggers, haptics).
+- **Phoenix** offers stronger value in **subscription services** (e.g., Game Pass).
+
+### User Experience
+
+- **Helix** is favored for **immersive gameplay and design**.
+- **Phoenix** emphasizes **ecosystem flexibility and raw power**.
+
+### Average Scores
+
+- 🕹️ **Product Helix**: **99.98**
+- ⚡ **Product Phoenix**: **117.78**
+
+## Bottom Line
+
+- Some users usually choose **Helix** for a **premium gaming experience** with top-tier exclusives.
+- Others choose **Phoenix** for **better performance, value, and content flexibility**.
+
 ## Recommendation
 
 Phoenix has a **strong foundation and t**his makes a **budget reallocation strategy** viable. Rather than acquire more new users, I suggest we c**arve out a portion** (e.g., 10–20%) of marketing budget for:
