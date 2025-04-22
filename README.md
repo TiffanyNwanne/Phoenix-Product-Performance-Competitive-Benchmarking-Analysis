@@ -80,6 +80,8 @@ Now for Phoenix’s strengths:
 
 Having discussed popularity and market dominance through advertising, let’s see if **Phoenix** has some internal issues by comparing the specs. Here are my insights:
 
+[![Preview Image](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Benchmark%20Specs.png))](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Benchmark%20Specs.png)
+
 ###  Performance
 
 - **Product Phoenix** has higher CPU (3.8 GHz vs 3.5 GHz) and GPU power (12 TFLOPs vs 10.28 TFLOPs).
