@@ -43,9 +43,9 @@ The objective of this analysis is to evaluate Product Phoenix’s performance ov
 
 **Tools & Environment**
 
-- Database Engine: MySQL
+- Database Engine: PostGreSQL
 - Visualization: Tableau (for post-analysis dashboarding)
-- Languages Used: SQL (MySQL dialect)
+- Languages Used: SQL (PostGreSQL dialect)
 
 Here’s the full breakdown of the analysis methodology 
 
