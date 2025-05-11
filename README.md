@@ -37,6 +37,7 @@ This project involves cross-functional collaboration between:
 - Database Admin & Data Engineer: Data infrastructure, pipeline and warehousing
 
 ## **Executive Summary**
+**[⇧ Back to Table of Contents](#table-of-contents)**
 
 [![Preview Image](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Dashboard%201.png))](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Dashboard%201.png)
 
@@ -51,10 +52,12 @@ Over the last five years (2020–2024), Phoenix has demonstrated moderate growth
 [![Preview Image](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Dashboard%202.png))](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/images/Dashboard%202.png)
 
 ## Analysis
+**[⇧ Back to Table of Contents](#table-of-contents)**
 
 The objective of this analysis is to evaluate Product Phoenix’s performance over a five-year period across key metrics including sales, revenue, marketing, and user engagement. This evaluation is compared directly with a competing product to inform the decision on whether to discontinue or reposition Phoenix.
 
 **Data Sources**
+**[⇧ Back to Table of Contents](#table-of-contents)**
 
 - Internal Sales & Marketing Data: Units sold, revenue, marketing spend, engagement metrics (Phoenix).
 - Competitor Data: Equivalent KPIs for benchmark comparison.
@@ -62,6 +65,7 @@ The objective of this analysis is to evaluate Product Phoenix’s performance ov
 - Granularity: Quarterly and regional breakdown (NA, EU, APAC)
 
 **Tools & Environment**
+**[⇧ Back to Table of Contents](#table-of-contents)**
 
 - Database Engine: PostGreSQL
 - Visualization: Tableau (for post-analysis dashboarding)
@@ -70,6 +74,7 @@ The objective of this analysis is to evaluate Product Phoenix’s performance ov
 Here’s the full breakdown of the analysis methodology 
 
 ## Insights
+**[⇧ Back to Table of Contents](#table-of-contents)**
 
 The competitor has led consistently in sales since 2020 - 2024.
 
@@ -133,6 +138,7 @@ Having discussed popularity and market dominance through advertising, let’s se
 - Others choose **Phoenix** for **better performance, value, and content flexibility**.
 
 ## Recommendation
+**[⇧ Back to Table of Contents](#table-of-contents)**
 
 Phoenix has a **strong foundation and t**his makes a **budget reallocation strategy** viable. Rather than acquire more new users, I suggest we c**arve out a portion** (e.g., 10–20%) of marketing budget for:
 
@@ -144,6 +150,7 @@ Phoenix has a **strong foundation and t**his makes a **budget reallocation strat
 **This would be tested  in high-retention** regions like EMEA and regions with best subscription rates like APAC.
 
 ## **Questions & Answers (Clarifications)**
+**[⇧ Back to Table of Contents](#table-of-contents)**
 
 Q1: Is Phoenix underperforming solely due to weak internal performance?
 
