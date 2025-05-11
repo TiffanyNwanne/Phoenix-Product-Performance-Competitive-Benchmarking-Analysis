@@ -26,7 +26,7 @@
 
 ## Project Background
 
-**[⇧ Back to TOC](#table-of-contents)**  
+**[⇧ Back to Table of Contents](#table-of-contents)**  
 
 Product Phoenix, a gaming console line , is under evaluation for potential discontinuation due to perceived underperformance. Stakeholders have raised concerns that its challenges stem from either inherent product weaknesses or the competitor’s dominance Product Helix. To assess this, a five-year data analysis was conducted covering sales performance, marketing investment, customer engagement, and competitor benchmarks.
 
