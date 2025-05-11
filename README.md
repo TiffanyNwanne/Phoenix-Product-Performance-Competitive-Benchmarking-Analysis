@@ -57,7 +57,7 @@ Over the last five years (2020–2024), Phoenix has demonstrated moderate growth
 The objective of this analysis is to evaluate Product Phoenix’s performance over a five-year period across key metrics including sales, revenue, marketing, and user engagement. This evaluation is compared directly with a competing product to inform the decision on whether to discontinue or reposition Phoenix.
 
 **Data Sources**
-**[⇧ Back to Table of Contents](#table-of-contents)**
+
 
 - Internal Sales & Marketing Data: Units sold, revenue, marketing spend, engagement metrics (Phoenix).
 - Competitor Data: Equivalent KPIs for benchmark comparison.
@@ -65,7 +65,6 @@ The objective of this analysis is to evaluate Product Phoenix’s performance ov
 - Granularity: Quarterly and regional breakdown (NA, EU, APAC)
 
 **Tools & Environment**
-**[⇧ Back to Table of Contents](#table-of-contents)**
 
 - Database Engine: PostGreSQL
 - Visualization: Tableau (for post-analysis dashboarding)
