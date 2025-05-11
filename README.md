@@ -6,6 +6,24 @@
 
 **Date:** April 2025
 
+## Table of Contents
+
+1. [Project Title & Metadata](#phoenix-product-performance--competitive-benchmarking-report)
+2. [Project Background](#project-background)
+3. [Executive Summary](#executive-summary)
+4. [Analysis](#analysis)  
+   - [Data Sources](#data-sources)  
+   - [Tools & Environment](#tools--environment)  
+5. [Insights](#insights)  
+   - [Sales & Revenue Trends](#insights)  
+   - [Regional Performance Comparison](#insights)  
+   - [Marketing Efficiency](#insights)  
+   - [User Engagement & Retention](#insights)  
+   - [Technical Specifications Benchmark](#performance)  
+6. [Bottom Line](#bottom-line)
+7. [Recommendation](#recommendation)
+8. [Questions & Answers (Clarifications)](#questions--answers-clarifications)
+
 ## Project Background
 
 Product Phoenix, a gaming console line , is under evaluation for potential discontinuation due to perceived underperformance. Stakeholders have raised concerns that its challenges stem from either inherent product weaknesses or the competitor’s dominance Product Helix. To assess this, a five-year data analysis was conducted covering sales performance, marketing investment, customer engagement, and competitor benchmarks.
