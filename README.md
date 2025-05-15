@@ -70,7 +70,7 @@ The objective of this analysis is to evaluate Product Phoenix’s performance ov
 - Visualization: Tableau (for post-analysis dashboarding)
 - Languages Used: SQL (PostGreSQL dialect)
 
-Here’s the full breakdown of the analysis methodology 
+Here’s the full breakdown of the [analysis methodology](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis/blob/main/Methodology.md)
 
 ## Insights
 **[⇧ Back to Table of Contents](#table-of-contents)**
